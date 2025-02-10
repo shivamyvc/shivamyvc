@@ -26,8 +26,6 @@ Welcome to my GitHub! I'm an **Automation Test Engineer** with **1 year and 5 mo
 - Exploring **AI models** to improve **test efficiency and application productivity**
 - Building **automation tools** to enhance **log analysis** and failure detection in large-scale test executions
 
-### ✅ **Development & API Automation:**
-- Working with **Microsoft Graph API** for workflow integration
 
 ---
 
